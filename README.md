@@ -42,7 +42,7 @@ cd hospital-management
 ## Run the server
 node server.js
 
-## 👩‍💻 Author
+##  Author
 **Pooja M**  
 Basic Node.js CRUD project using Fetch API and DOM manipulation.
 
