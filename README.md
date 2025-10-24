@@ -32,14 +32,14 @@ public/
 
 ---
 
-## 🛠️ Installation & Setup
-# Clone the repository
+# 🛠️ Installation & Setup
+## Clone the repository
 git clone https://github.com/<your-username>/hospital-management.git
 
-# Navigate to project folder
+## Navigate to project folder
 cd hospital-management
 
-# Run the server
+## Run the server
 node server.js
 
 ## 👩‍💻 Author
