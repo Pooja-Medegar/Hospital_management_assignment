@@ -28,7 +28,7 @@ public/
   - `DELETE /api/patients/:id` → Delete patient by ID  
 - Saves data to `patients.json`
 
-**File:** `server.js` (~30 lines)
+**File:** `server.js` 
 
 ---
 
